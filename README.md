@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahima Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw19-vcQJWRQQ7THvE48IKeG&ust=1720953718142000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD4nq_qo4cDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw19-vcQJWRQQ7THvE48IKeG&ust=1720953718142000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD4nq_qo4cDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw19-vcQJWRQQ7THvE48IKeG&ust=1720953718142000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD4nq_qo4cDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-coding&label=Profile%20views&color=0e75b6&style=flat" alt="mahima-coding" /> </p>
 
