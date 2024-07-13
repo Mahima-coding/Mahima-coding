@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahima Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/56ca2cb3-6e75-46fe-a11b-64319e5a843b)
-">
+<img align="right" alt="coding" width="400" ![image](https://github.com/user-attachments/assets/58043642-0e47-49ac-80fe-5a062d15d0f8)
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahima-coding&label=Profile%20views&color=0e75b6&style=flat" alt="mahima-coding" /> </p>
 
